@@ -16,11 +16,11 @@ Calorify is a calorie and nutrition tracking app designed to help you stay on to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calorify.git
+   git clone https://github.com/Anirudhmadhavkulkarni9094/Calorify-UI.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd calorify
+   cd Calorify-UI
    ```
 3. Install dependencies:
    ```bash
